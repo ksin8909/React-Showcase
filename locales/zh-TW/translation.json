@@ -1,0 +1,73 @@
+{
+    "title": "React Showcase",
+    "lang": "語言",
+    "pages": {
+        "home": "主頁",
+        "showcase": "演示集"
+    },
+    "home": {
+        "browse": "瀏覽",
+        "des-1": "@ksin8909 以 react javascript library 製作的個人演示集。",
+        "des-2": "什麼是 React?",
+        "works": "作品",
+        "skills": "技術",
+        "contact": "聯絡",
+        "view-more": "查看更多"
+    },
+    "showcase": {
+        "load-more": "載入更多"
+    },
+    "category": {
+        "category": "類別",
+        "all": "全部",
+        "dapp": "DAPP",
+        "effect": "動態效果",
+        "full-stack": "全端",
+        "mobile": "移動應用"
+    },
+    "tag": {
+        "tag": "標籤",
+        "all": "全部",
+        "auth": "權限",
+        "camera": "相機",
+        "crud": "CRUD",
+        "database": "數據庫",
+        "qr": "QR",
+        "smart-contract": "智能合約",
+        "wallet": "錢包",
+        "2d": "2D",
+        "3d": "3D",
+        "360": "360"
+    },
+    "skill": {
+        "skill": "技術",
+        "all": "全部"
+    },
+    "dapp": {
+        "connect": "連接錢包",
+        "disconnect": "登出錢包",
+        "address": "地址",
+        "chain-id": "鏈 ID",
+        "chain-name": "鏈名稱",
+        "balance": "結餘",
+        "connect-error": "連接錯誤",
+        "connect-error-install-metamask": "請安裝 Metamask!",
+        "ok": "確定",
+        "conneted": "已連接錢包",
+        "disconneted": "已登出錢包"
+    },
+    "threejs": {
+        "golf": "高爾夫球",
+        "soccer": "足球",
+        "earth": "地球",
+        "mars": "火星"
+    },
+    "tsparticles": {
+        "square": "正方形",
+        "circle": "圓形"
+    },
+    "mobile": {
+        "download-apk-file": "下載 APK 檔案",
+        "screenshot": "截屏"
+    }
+}

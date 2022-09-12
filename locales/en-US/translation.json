@@ -1,0 +1,73 @@
+{
+    "title": "React Showcase",
+    "lang": "Language",
+    "pages": {
+        "home": "Home",
+        "showcase": "Showcase"
+    },
+    "home": {
+        "browse": "Browse",
+        "des-1": "@ksin8909 personal showcase made with the react javascript library.",
+        "des-2": "What is React?",
+        "works": "Works",
+        "skills": "Skills",
+        "contact": "Contact",
+        "view-more": "View More"
+    },
+    "showcase": {
+        "load-more": "Load More"
+    },
+    "category": {
+        "category": "Category",
+        "all": "All",
+        "dapp": "DAPP",
+        "effect": "Effect",
+        "full-stack": "Full Stack",
+        "mobile": "Mobile"
+    },
+    "tag": {
+        "tag": "Tag",
+        "all": "All",
+        "auth": "Auth",
+        "camera": "Camera",
+        "crud": "CRUD",
+        "database": "Database",
+        "qr": "QR",
+        "smart-contract": "Smart Contract",
+        "wallet": "Wallet",
+        "2d": "2D",
+        "3d": "3D",
+        "360": "360"
+    },
+    "dapp": {
+        "connect": "Connect Wallet",
+        "disconnect": "Disconnect Wallet",
+        "address": "Address",
+        "chain-id": "Chain ID",
+        "chain-name": "Chain Name",
+        "balance": "Balance",
+        "connect-error": "Connection Error",
+        "connect-error-install-metamask": "Please install Metamask!",
+        "ok": "OK",
+        "conneted": "Wallet Connected",
+        "disconneted": "Wallet Disconnected"
+    },
+    "skill": {
+        "skill": "Skill",
+        "all": "All"
+    },
+    "threejs": {
+        "golf": "Golf",
+        "soccer": "Soccer",
+        "earth": "Earth",
+        "mars": "Mars"
+    },
+    "tsparticles": {
+        "square": "Square",
+        "circle": "Circle"
+    },
+    "mobile": {
+        "download-apk-file": "Download APK File",
+        "screenshot": "Screenshot"
+    }
+}
