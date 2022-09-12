@@ -1,0 +1,77 @@
+{
+    "title": "React Showcase",
+    "lang": "语言",
+    "app": {
+        "lang-chosen": "中文(简体)"
+    },
+    "pages": {
+        "home": "主页",
+        "showcase": "演示集"
+    },
+    "home": {
+        "browse": "浏览",
+        "des-1": "@ksin8909 以 react javascript library 制作的个人演示集。",
+        "des-2": "什么是 React?",
+        "works": "作品",
+        "skills": "技术",
+        "contact": "联络",
+        "view-more": "查看更多"
+    },
+    "showcase": {
+        "filter": "筛选",
+        "load-more": "载入更多"
+    },
+    "category": {
+        "category": "类别",
+        "all": "全部",
+        "dapp": "DAPP",
+        "effect": "动态效果",
+        "full-stack": "全端",
+        "mobile": "移动应用"
+    },
+    "tag": {
+        "tag": "标签",
+        "all": "全部",
+        "auth": "权限",
+        "camera": "相机",
+        "crud": "CRUD",
+        "database": "数据库",
+        "qr": "QR",
+        "smart-contract": "智能合约",
+        "wallet": "钱包",
+        "2d": "2D",
+        "3d": "3D",
+        "360": "360"
+    },
+    "skill": {
+        "skill": "技术",
+        "all": "全部"
+    },
+    "dapp": {
+        "connect": "连接钱包",
+        "disconnect": "登出钱包",
+        "address": "地址",
+        "chain-id": "链 ID",
+        "chain-name": "链名称",
+        "balance": "结余",
+        "connect-error": "连接错误",
+        "connect-error-install-metamask": "请安装 Metamask!",
+        "ok": "确定",
+        "conneted": "已连接钱包",
+        "disconneted": "已登出钱包"
+    },
+    "threejs": {
+        "golf": "高尔夫球",
+        "soccer": "足球",
+        "earth": "地球",
+        "mars": "火星"
+    },
+    "tsparticles": {
+        "square": "正方形",
+        "circle": "圆形"
+    },
+    "mobile": {
+        "download-apk-file": "下载 APK 文件",
+        "screenshot": "截屏"
+    }
+}

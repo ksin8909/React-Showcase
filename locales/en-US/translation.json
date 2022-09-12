@@ -1,6 +1,9 @@
 {
     "title": "React Showcase",
     "lang": "Language",
+    "app": {
+        "lang-chosen": "English"
+    },
     "pages": {
         "home": "Home",
         "showcase": "Showcase"

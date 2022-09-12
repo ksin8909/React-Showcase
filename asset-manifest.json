@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Showcase/static/css/main.fe089676.css",
-    "main.js": "/React-Showcase/static/js/main.2e864e32.js",
+    "main.css": "/React-Showcase/static/css/main.59105af8.css",
+    "main.js": "/React-Showcase/static/js/main.4d542b42.js",
     "static/js/563.71da995f.chunk.js": "/React-Showcase/static/js/563.71da995f.chunk.js",
     "static/js/942.a260a325.chunk.js": "/React-Showcase/static/js/942.a260a325.chunk.js",
     "static/js/27.eea448e5.chunk.js": "/React-Showcase/static/js/27.eea448e5.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/getFetch.cjs": "/React-Showcase/static/media/getFetch.c780682470504fffbd04.cjs"
   },
   "entrypoints": [
-    "static/css/main.fe089676.css",
-    "static/js/main.2e864e32.js"
+    "static/css/main.59105af8.css",
+    "static/js/main.4d542b42.js"
   ]
 }
