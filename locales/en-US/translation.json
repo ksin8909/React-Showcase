@@ -34,6 +34,7 @@
         "all": "All",
         "auth": "Auth",
         "camera": "Camera",
+        "cms": "CMS",
         "crud": "CRUD",
         "database": "Database",
         "qr": "QR",
