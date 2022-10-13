@@ -38,6 +38,7 @@
         "crud": "CRUD",
         "database": "Database",
         "qr": "QR",
+        "realtime": "Realtime",
         "smart-contract": "Smart Contract",
         "wallet": "Wallet",
         "2d": "2D",
