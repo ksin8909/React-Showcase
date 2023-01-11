@@ -19,7 +19,8 @@
     },
     "showcase": {
         "filter": "筛选",
-        "load-more": "载入更多"
+        "load-more": "载入更多",
+        "basic": "基本"
     },
     "category": {
         "category": "类别",
@@ -32,6 +33,7 @@
     "tag": {
         "tag": "标签",
         "all": "全部",
+        "ai": "AI",
         "auth": "权限",
         "camera": "相机",
         "cms": "CMS",
@@ -47,7 +49,13 @@
     },
     "skill": {
         "skill": "技术",
-        "all": "全部"
+        "all": "全部",
+        "language": "语言",
+        "framework": "框架",
+        "cssframework": "CSS 框架",
+        "database": "数据库",
+        "data": "数据检索",
+        "library": "函式庫"
     },
     "dapp": {
         "connect": "连接钱包",

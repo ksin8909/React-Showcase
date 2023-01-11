@@ -19,7 +19,8 @@
     },
     "showcase": {
         "filter": "篩選",
-        "load-more": "載入更多"
+        "load-more": "載入更多",
+        "basic": "基本"
     },
     "category": {
         "category": "類別",
@@ -32,6 +33,7 @@
     "tag": {
         "tag": "標籤",
         "all": "全部",
+        "ai": "AI",
         "auth": "權限",
         "camera": "相機",
         "cms": "CMS",
@@ -47,7 +49,13 @@
     },
     "skill": {
         "skill": "技術",
-        "all": "全部"
+        "all": "全部",
+        "language": "語言",
+        "framework": "框架",
+        "cssframework": "CSS 框架",
+        "database": "數據庫",
+        "data": "數據檢索",
+        "library": "函式庫"
     },
     "dapp": {
         "connect": "連接錢包",

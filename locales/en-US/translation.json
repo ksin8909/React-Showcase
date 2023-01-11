@@ -19,7 +19,8 @@
     },
     "showcase": {
         "filter": "Filter",
-        "load-more": "Load More"
+        "load-more": "Load More",
+        "basic": "Basic"
     },
     "category": {
         "category": "Category",
@@ -32,6 +33,7 @@
     "tag": {
         "tag": "Tag",
         "all": "All",
+        "ai": "AI",
         "auth": "Auth",
         "camera": "Camera",
         "cms": "CMS",
@@ -60,7 +62,13 @@
     },
     "skill": {
         "skill": "Skill",
-        "all": "All"
+        "all": "All",
+        "language": "Language",
+        "framework": "Framework",
+        "cssframework": "CSS Framework",
+        "database": "Database",
+        "data": "Data Retrieval",
+        "library": "Library"
     },
     "threejs": {
         "golf": "Golf",
